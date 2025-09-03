@@ -3,3 +3,12 @@ public class Main {
         System.out.println("Hello world");
     }
 }
+
+
+
+
+
+// how to push new program
+// git add .
+// git commit -m "Added new program <filename>.java"
+// git push
