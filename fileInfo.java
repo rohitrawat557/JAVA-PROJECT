@@ -9,7 +9,7 @@ public class fileInfo {
         System.out.println("File writeable: "+f.canWrite());
         System.out.println("File readable: "+f.canRead());
         System.out.println("File size: "+f.length());
-        //  System.out.println("File removed: "+f.delete());
+         System.out.println("File removed: "+f.delete());
         }
       else{
         System.out.println("File doesn't exists...!");
