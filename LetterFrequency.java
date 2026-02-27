@@ -4,7 +4,8 @@ public class LetterFrequency {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a string: ");
         String str = sc.next();
-        char letter = 'a'; 
+         System.out.print("Enter a letter: ");
+        char letter = sc.next().charAt(0);
         int count = 0;
 
     
